@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 66" width="256" height="264">
+    <polygon points="18,50 32,57 32,63 18,56" fill="#0B2466"/>
+    <polygon points="32,57 46,50 46,56 32,63" fill="#1A3F9C"/>
+    <polygon points="6,30 32,43 32,52 6,39" fill="#0B2466"/>
+    <polygon points="32,43 58,30 58,39 32,52" fill="#1A3F9C"/>
+    <polygon points="32,17 58,30 32,43 6,30" fill="#12317F"/>
+    <polygon points="14.667,25.667 23.333,21.333 49.333,34.333 40.667,38.667" fill="#F7C600"/>
+    <polygon points="14.667,34.333 40.667,21.333 49.333,25.667 23.333,38.667" fill="#F7C600"/>
+    <polygon points="23.333,30 32,25.667 40.667,30 32,34.333" fill="#12317F" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/>
+    <polyline points="6,30 32,43 58,30" fill="none" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/>
+    <line x1="32" y1="43" x2="32" y2="52" stroke="#FFFFFF" stroke-width="0.9"/>
+    <g class="mk-tile">
+      <polygon points="21,8 32,13.5 32,16 21,10.5" fill="#0B2466"/>
+      <polygon points="32,13.5 43,8 43,10.5 32,16" fill="#1A3F9C"/>
+      <polygon points="32,2.5 43,8 32,13.5 21,8" fill="#12317F"/>
+      <polygon points="28.5,8 32,6.25 35.5,8 32,9.75" fill="none" stroke="#FFFFFF" stroke-width="0.8" stroke-linejoin="round"/>
+    </g>
+  </svg>
